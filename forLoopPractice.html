@@ -1,0 +1,32 @@
+<template>
+    <lightning-card title="For Loop Practice">
+        <div class="slds-p-around_large">
+           
+            <div class="slds-grid slds-align_absolute-center slds-gutters">
+
+                <div class="slds-col">
+                    <lightning-input placeholder="Enter Values Here" value={value} onchange={handleValue}></lightning-input>
+                </div>
+
+                <div class="slds-col">
+                    <lightning-button label="Add" variant="success" onclick={handleAdd}></lightning-button>
+                </div>
+
+                <div class="slds-col">
+                    <lightning-button label="Reset" variant="destructive" onclick={handleReset}></lightning-button>
+                </div>
+            </div>
+
+            <br />
+            <h3><strong>All VALUES</strong></h3>        
+            <br />
+
+            <ul class="slds-list_dotted">
+                <template for:each={values} for:item="val">
+                    <li key={val}>{val}</li>
+                </template>
+            </ul>
+
+        </div>
+    </lightning-card>
+</template>
