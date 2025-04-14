@@ -4,7 +4,7 @@ This is a simple Salesforce Lightning Web Component project that demonstrates ho
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 - ⚡ Salesforce Lightning Web Components (LWC)
 - 💅 SLDS (Salesforce Lightning Design System)
