@@ -11,7 +11,7 @@ This is a simple Salesforce Lightning Web Component project that demonstrates ho
 - 🚀 Apex-free, fully client-side logic
 
 ---
-
+ 
 ## ✨ Features
 
 - 📥 Input field for entering custom values
