@@ -12,7 +12,7 @@ This is a simple Salesforce Lightning Web Component project that demonstrates ho
  
 ---  
  
-## ✨ Features    
+## ✨ Features      
 
 - 📥 Input field for entering custom values
 - ➕ Add button to store each value in a list
