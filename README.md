@@ -8,7 +8,7 @@ This is a simple Salesforce Lightning Web Component project that demonstrates ho
 
 - ⚡ Salesforce Lightning Web Components (LWC)
 - 💅 SLDS (Salesforce Lightning Design System) 
-- 🚀 Apex-free, fully client-side logic   
+- 🚀 Apex-free, fully client-side logic     
  
 ---  
  
