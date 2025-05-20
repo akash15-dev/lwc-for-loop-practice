@@ -17,7 +17,7 @@ This is a simple Salesforce Lightning Web Component project that demonstrates ho
 - 📥 Input field for entering custom values  
 - ➕ Add button to store each value in a list  
 - ♻️ Reset button to clear all values
-- ✅ Real-time list rendering using `for:each`
+- ✅ Real-time list rendering using `for:each`  
 - 💡 "No values added yet" message when the list is empty  
 - 🚫 Add button is disabled when input is blank
 
