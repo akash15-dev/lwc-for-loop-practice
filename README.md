@@ -10,7 +10,7 @@ This is a simple Salesforce Lightning Web Component project that demonstrates ho
 - 💅 SLDS (Salesforce Lightning Design System)        
 - 🚀 Apex-free, fully client-side logic                
  
----          
+---           
        
 ## ✨ Features             
          
